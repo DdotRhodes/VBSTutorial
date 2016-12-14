@@ -3,7 +3,7 @@
 
 To learn more about VB Script, I did a 9 part tutorial. The tutorial covers the following concepts:
 
-[Arrays](https://github.com/DdotRhodes/VBSTutorial/blob/master/2.1.vbs)
+Arrays
 
 Statements and Fuctions
 
